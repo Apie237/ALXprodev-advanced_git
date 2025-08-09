@@ -1,1 +1,1 @@
-# ALXprodev Advanced Git - GitFlow workflow implementation
+# ALXprodev Advanced Git
